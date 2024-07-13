@@ -1,8 +1,8 @@
-import JobForm from "@/Components/Addjob";
-import Header from "@/Components/Header";
-import JobCard from "@/Components/JobCard";
-import Mainpagebanner from "@/Components/Mainpagebanner";
-import SearchBar from "@/Components/SearchBar";
+import JobForm from "@/app/Components/Addjob";
+import Header from "@/app/Components/Header";
+import JobCard from "@/app/Components/JobCard";
+import Mainpagebanner from "@/app/Components/Mainpagebanner";
+import SearchBar from "@/app/Components/SearchBar";
 
 export default function Home() {
   return (

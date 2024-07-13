@@ -1,5 +1,5 @@
-import Header from '@/Components/Header'
-import SignupForm from '@/Components/OwnerSignupForm'
+import Header from '@/app/Components/Header'
+import SignupForm from '@/app/Components/OwnerSignupForm'
 import React from 'react'
 
 const page = () => {
